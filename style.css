@@ -24,6 +24,7 @@ body{
     overflow: hidden;
     padding: 20px;
     margin: 50px auto;
+    box-shadow: 10px 11px 17px -1px rgba(0,0,0,0.1);
 }
 
 .card__imagen__img{
